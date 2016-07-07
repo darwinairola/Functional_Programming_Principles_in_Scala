@@ -1,0 +1,9 @@
+##  files
+*.zip
+*.class
+*~
+*.cache*
+
+##  directories
+bin
+target
