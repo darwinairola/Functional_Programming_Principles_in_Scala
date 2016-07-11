@@ -52,5 +52,4 @@ class Rational(num: Int, den: Int)
 	def - (that: Rational) = this + -that
 
 	override def toString = n + "/" + d
-
 }
